@@ -5,3 +5,5 @@
 
 Slides for a presentation for the
 [SMI 2019](https://sites.uci.edu/smi2019/) conference.
+
+https://johnmuschelli.com/smi_2019/#1
